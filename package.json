@@ -1,0 +1,10 @@
+{
+  "name": "partidul-ai-social",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@fontsource-variable/big-shoulders-display": "^5.3.0",
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
+    "@fontsource-variable/jetbrains-mono": "^5.3.0"
+  }
+}
