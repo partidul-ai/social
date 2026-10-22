@@ -1,0 +1,21 @@
+TITLU
+
+România în cifre: școală, sărăcie, regiuni
+
+DESCRIERE
+
+Câteva cifre din wiki-ul partidul.ai, cu bune și cu rele.
+
+Educație: 15,5% dintre tinerii de 18–24 de ani au cel mult 8 clase și nu mai merg la școală sau la vreun curs (2025). Media UE e 9,1%. La sat, 23,7%. În orașele mari, 4,6%.
+Sărăcie: în 2021, 34,4% dintre oameni erau amenințați de sărăcie. În 2025, 27,4%.
+Regiuni: cât produce în medie un locuitor, ținând cont de prețuri (media UE = 100%, 2024): București-Ilfov 188%, Nord-Est 48%.
+
+Din ce regiune ești și ți se pare că cifrele se potrivesc cu ce vezi în jur?
+
+Sursele sunt în primul comentariu. Datele și explicațiile din 11 domenii: partidul.ai/wiki (link în bio)
+
+#romania #educatie #date #statistica #eurostat
+
+COMENTARIU FIXAT
+
+Surse: Eurostat, tabelele edat_lfse_14, edat_lfse_30, ilc_peps01n și nama_10r_2gdp. Datele și explicațiile: partidul.ai/wiki
